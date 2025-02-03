@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+
+body{
+    background-color:#EB333F ;
+    opacity:  #9061BD;
+
+font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+   
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.663);
+    border: transparent;
+    justify-content: center;
+    border-radius: 8px;
+    margin-top: 100px;
+    margin-left: 280px;
+ 
+    width: 950px;
+    right: 150px;
+   
+ 
+    
+}
+.button{
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-left: 380px;
+    border-radius: 8px;
+    border: transparent;
+    padding: 5px 45px;
+    background-color: rgba(255, 255, 255, 0.688);
+    cursor: pointer;
+}
+.card-container{
+    
+    border-left: 20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+span{
+  
+    font-size: 35px;
+    text-align: center;
+    
+    
+    
+    
+    
+}
+br{
+    color: rgb(173, 29, 53);
+    
+}
+/* .number1{
+    color: #d51a1a;
+    justify-content: center;
+    font-size: 18px;
+
+} */
+main{
+      
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    
+    
+    
+
+}
+
+.info{
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+
+
+.info-but{
+    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-left: 390px;
+    border-radius: 8px;
+    border: transparent;
+    padding: 5px 25px;
+    background-color: rgba(255, 255, 255, 0.686);
+    cursor: pointer;
+
+}
+.info-but2{
+
+    margin-bottom: 20px;
+    margin-top: 4px;
+    margin-left: 390px;
+    margin-right: 150px;
+    border-radius: 8px;
+    border: transparent;
+    padding: 5px 35px;
+    background-color: rgba(255, 255, 255, 0.685);
+    cursor: pointer;
+}
+  
+.descrption{
+  
+    
+
+    display: flex;
+    text-align: center;
+    
+
+}
+
+
+.result-logo{
+    color: rgb(252, 248, 248);
+    font-size: 18px;
+    background-color: rgb(224, 19, 53);
+    padding:25px;
+    width: 9%;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+    left: 90px;
+    top: 100px;
+  
+  
+    
+  
+}
+.result-logo2{
+    color: rgb(252, 248, 248);
+    font-size: 18px;
+    background-color: rgb(224, 19, 53);
+    padding: 25px;
+    width: 9%;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+    left: 600px;
+    top: 100px;
+}
